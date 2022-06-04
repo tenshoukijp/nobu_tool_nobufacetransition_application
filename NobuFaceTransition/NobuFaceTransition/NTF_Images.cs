@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
+using System.Threading.Tasks;
 
 namespace NobuFaceTransition
 {
@@ -33,6 +34,7 @@ namespace NobuFaceTransition
 
             // アセンブリに含まれるリソースの名前全部
             string[] resources = asm.GetManifestResourceNames();
+
 
             foreach (string resourcename in resources)
             {
