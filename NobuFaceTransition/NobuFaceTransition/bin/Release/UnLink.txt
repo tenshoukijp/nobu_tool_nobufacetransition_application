@@ -2712,3 +2712,7 @@ nobu15pk_1396.png=>nobu14rd_1737.png
 nobu14rd_1737.png=>nobu15pk_1396.png
 nobu15pk_1388.png=>nobu12pk_0692.png
 nobu12pk_0692.png=>nobu15pk_1388.png
+nobu15pk_1220.png=>nobu15pk_0877.png
+nobu15pk_0877.png=>nobu15pk_1220.png
+nobu15pk_1247.png=>nobu15pk_2992.png
+nobu15pk_2992.png=>nobu15pk_1247.png
